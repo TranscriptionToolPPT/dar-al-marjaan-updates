@@ -1,6 +1,6 @@
 {
-  "version": "1.1.0",
-  "url": "https://github.com/TranscriptionToolPPT/dar-al-marjaan-updates/releases/download/v1.1.0/DarAlMarjaan_WordCountPrice_Update_1.1.0.zip",
-  "sha256": "13f746b08604102d360869cda42792abbe53d3c1b0bd53f4cec3b2405f235c94",
-  "notes": "Dar Al Marjaan Word Count and Price update"
+  "version": "1.1.1",
+  "url": "https://github.com/TranscriptionToolPPT/dar-al-marjaan-updates/releases/download/v1.1.1/DarAlMarjaan_WordCountPrice_Update_1.1.1.zip",
+  "sha256": "88fa98cb060c6b38d5d8a01f7fd189a11528528ce738206da4754daec7b566ac",
+  "notes": "Improved PDF OCR recovery, automatic retries, rotated-page handling, and embedded-text fallback when OCR returns no readable text."
 }
