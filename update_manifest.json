@@ -1,6 +1,6 @@
 {
-  "version": "1.1.4",
-  "url": "https://github.com/TranscriptionToolPPT/dar-al-marjaan-updates/releases/download/v1.1.4/DarAlMarjaan_WordCountPrice_Update_1.1.4.zip",
-  "sha256": "1e3718367871b93446132c77cd0281a4eb2c09f826b6ad1e56cd808ed492c2e0",
-  "notes": "Updates are now checked automatically while the tool stays open. A non-blocking in-app banner shows the new version and an Install Update button."
+  "version": "1.1.5",
+  "url": "https://github.com/TranscriptionToolPPT/dar-al-marjaan-updates/releases/download/v1.1.5/DarAlMarjaan_WordCountPrice_Update_1.1.5.zip",
+  "sha256": "891ee828d597a2fce75e4b9b442fe8b42c7a05ee1994c4b09863251572ab5b03",
+  "notes": "Pricing source language, target language, and service type now appear directly above Totals on the Word Count page. The Prices page now focuses on rate tables."
 }
