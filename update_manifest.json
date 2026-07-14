@@ -1,6 +1,6 @@
 {
-  "version": "1.1.1",
-  "url": "https://github.com/TranscriptionToolPPT/dar-al-marjaan-updates/releases/download/v1.1.1/DarAlMarjaan_WordCountPrice_Update_1.1.1.zip",
-  "sha256": "88fa98cb060c6b38d5d8a01f7fd189a11528528ce738206da4754daec7b566ac",
-  "notes": "Improved PDF OCR recovery, automatic retries, rotated-page handling, and embedded-text fallback when OCR returns no readable text."
+  "version": "1.1.2",
+  "url": "https://github.com/TranscriptionToolPPT/dar-al-marjaan-updates/releases/download/v1.1.2/DarAlMarjaan_WordCountPrice_Update_1.1.2.zip",
+  "sha256": "2ea9a6d617f219e16cba80d284160270005f84608429ca8e81df63128886984d",
+  "notes": "Fixed automatic update installation when Windows still has the application file locked."
 }
