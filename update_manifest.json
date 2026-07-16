@@ -1,6 +1,6 @@
 {
-  "version": "1.1.8",
-  "url": "https://github.com/TranscriptionToolPPT/dar-al-marjaan-updates/releases/download/v1.1.8/DarAlMarjaan_WordCountPrice_Update_1.1.8.zip",
-  "sha256": "a7f12ce89d178ccc1de7ba78e593a83cb35f4adea407149569bc3d1d50a75cb6",
-  "notes": "Added a centered Powered By: Mohamed Hassan credit above the main header in a compact dark 9pt style."
+  "version": "1.1.9",
+  "url": "https://github.com/TranscriptionToolPPT/dar-al-marjaan-updates/releases/download/v1.1.9/DarAlMarjaan_WordCountPrice_Update_1.1.9.zip",
+  "sha256": "7229e447a86b5f2f70237d3f855f6dcf6c4c483a053927213defb6017d2c5064",
+  "notes": "Batch pricing now selects one rate from the total pricing pages across all uploaded files. The same rate applies to every file and the batch total."
 }
