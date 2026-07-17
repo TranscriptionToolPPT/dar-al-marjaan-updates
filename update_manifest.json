@@ -1,6 +1,6 @@
 {
-  "version": "1.1.9",
-  "url": "https://github.com/TranscriptionToolPPT/dar-al-marjaan-updates/releases/download/v1.1.9/DarAlMarjaan_WordCountPrice_Update_1.1.9.zip",
-  "sha256": "7229e447a86b5f2f70237d3f855f6dcf6c4c483a053927213defb6017d2c5064",
-  "notes": "Batch pricing now selects one rate from the total pricing pages across all uploaded files. The same rate applies to every file and the batch total."
+  "version": "1.1.10",
+  "url": "https://github.com/TranscriptionToolPPT/dar-al-marjaan-updates/releases/download/v1.1.10/DarAlMarjaan_WordCountPrice_Update_1.1.10.zip",
+  "sha256": "1c2e1632a2b74138d29b4a8a5677d3cade90080cc8bca4fa418328f36872d925",
+  "notes": "Pricing languages now start unselected and reset for every new count. Counting works without languages; select source and target after counting to calculate the price."
 }
