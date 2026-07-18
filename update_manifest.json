@@ -1,6 +1,6 @@
 {
-  "version": "1.1.10",
-  "url": "https://github.com/TranscriptionToolPPT/dar-al-marjaan-updates/releases/download/v1.1.10/DarAlMarjaan_WordCountPrice_Update_1.1.10.zip",
-  "sha256": "1c2e1632a2b74138d29b4a8a5677d3cade90080cc8bca4fa418328f36872d925",
-  "notes": "Pricing languages now start unselected and reset for every new count. Counting works without languages; select source and target after counting to calculate the price."
+  "version": "1.1.11",
+  "url": "https://github.com/TranscriptionToolPPT/dar-al-marjaan-updates/releases/download/v1.1.11/DarAlMarjaan_WordCountPrice_Update_1.1.11.zip",
+  "sha256": "5c62e8b5131e74074e4a54c92d09604ccef27c3fd55140c42618251106760cb8",
+  "notes": "Selected files and per-file results now share one table. The duplicate results section and Status column were removed."
 }
