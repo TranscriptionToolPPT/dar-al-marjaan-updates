@@ -1,6 +1,6 @@
 {
-  "version": "1.1.11",
-  "url": "https://github.com/TranscriptionToolPPT/dar-al-marjaan-updates/releases/download/v1.1.11/DarAlMarjaan_WordCountPrice_Update_1.1.11.zip",
-  "sha256": "5c62e8b5131e74074e4a54c92d09604ccef27c3fd55140c42618251106760cb8",
-  "notes": "Selected files and per-file results now share one table. The duplicate results section and Status column were removed."
+  "version": "1.1.12",
+  "url": "https://github.com/TranscriptionToolPPT/dar-al-marjaan-updates/releases/download/v1.1.12/DarAlMarjaan_WordCountPrice_Update_1.1.12.zip",
+  "sha256": "20d189b5bcbadb814cdf29bffe99faa08fb419a12821ff6fe31a716abf8ac82f",
+  "notes": "Added safe nested ZIP processing, recursive folder scanning, stronger OCR recovery, blank-page detection, and clear file/page-specific review messages."
 }
