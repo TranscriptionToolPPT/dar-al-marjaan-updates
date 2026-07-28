@@ -1,6 +1,6 @@
 {
   "version": "1.1.12",
   "url": "https://github.com/TranscriptionToolPPT/dar-al-marjaan-updates/releases/download/v1.1.12/DarAlMarjaan_WordCountPrice_Update_1.1.12.zip",
-  "sha256": "20d189b5bcbadb814cdf29bffe99faa08fb419a12821ff6fe31a716abf8ac82f",
+  "sha256": "8604a9d625e8937aaa006e604a08b98eedcb10532a0d8fcd29147e3dd126449d",
   "notes": "Added safe nested ZIP processing, recursive folder scanning, stronger OCR recovery, blank-page detection, and clear file/page-specific review messages."
 }
