@@ -1,6 +1,6 @@
 {
-  "version": "1.1.13",
-  "url": "https://github.com/TranscriptionToolPPT/dar-al-marjaan-updates/releases/download/v1.1.13/DarAlMarjaan_WordCountPrice_Update_1.1.13.zip",
-  "sha256": "cf88c62051ba18230cf602b124d8fb9ea39798540d1324e4a76a64c603ee4635",
-  "notes": "Added HEIC, HEIF, AVIF, JPEG 2000, PSD, and broad image-format support with content-based detection, camera-orientation correction, multi-frame OCR, and clear damaged-image errors."
+  "version": "1.1.16",
+  "url": "https://github.com/TranscriptionToolPPT/dar-al-marjaan-updates/releases/download/v1.1.16/DarAlMarjaan_WordCountPrice_Update_1.1.16.zip",
+  "sha256": "483e4425617ec224ce262d722ed2f47a123bc82293bcf1cf3475bf2faf7fe441",
+  "notes": "Faster adaptive OCR for clear pages, targeted recovery for difficult pages, immediate Stop, page-level Resume, stable progress rows, and fully visible action buttons."
 }
