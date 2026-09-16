@@ -1,6 +1,6 @@
 {
-  "version": "1.1.18",
-  "url": "https://github.com/TranscriptionToolPPT/dar-al-marjaan-updates/releases/download/v1.1.18/DarAlMarjaan_WordCountPrice_Update_1.1.18.zip",
-  "sha256": "3d547ed65b265eb37eb12c71c41ae678913cc731b4c21d7b80e5f1ee6c521ca8",
-  "notes": "Fixes Qt startup compatibility after updates, rotated scanned PDF recognition, and automatic Microsoft Word count-cache repair."
+  "version": "1.1.19",
+  "url": "https://github.com/TranscriptionToolPPT/dar-al-marjaan-updates/releases/download/v1.1.19/DarAlMarjaan_WordCountPrice_Update_1.1.19.zip",
+  "sha256": "bff0b4dd1a5da2166924a01b877fa83a66c38471d5f1c114def573d0a12ca06b",
+  "notes": "Fixes rotated standalone images, mixed-orientation PDF image regions, small scan skew, and blocks low-confidence OCR noise from being billed as words."
 }
