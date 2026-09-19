@@ -1,6 +1,6 @@
 {
-  "version": "1.1.21",
-  "url": "https://github.com/TranscriptionToolPPT/dar-al-marjaan-updates/releases/download/v1.1.21/DarAlMarjaan_WordCountPrice_Update_1.1.21.zip",
-  "sha256": "a4d5ceb8ab86158a990ae2f640a7fb542d91e1a6da41708bcff35517a6d05198",
-  "notes": "Preserves reliable Unicode OCR text for Microsoft Word counting, including automatic CJK script detection, while keeping unreadable scans flagged for review."
+  "version": "1.1.22",
+  "url": "https://github.com/TranscriptionToolPPT/dar-al-marjaan-updates/releases/download/v1.1.22/DarAlMarjaan_WordCountPrice_Update_1.1.22.zip",
+  "sha256": "55cf060f7ab22d5c33529866b76babd4f8c860ec0edd1be212d0e62c9a45314e",
+  "notes": "Improved handling for oversized PDF pages and clearer OCR review status."
 }
