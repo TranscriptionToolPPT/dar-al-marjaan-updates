@@ -1,6 +1,6 @@
 {
-  "version": "1.1.22",
-  "url": "https://github.com/TranscriptionToolPPT/dar-al-marjaan-updates/releases/download/v1.1.22/DarAlMarjaan_WordCountPrice_Update_1.1.22.zip",
-  "sha256": "55cf060f7ab22d5c33529866b76babd4f8c860ec0edd1be212d0e62c9a45314e",
-  "notes": "Improved handling for oversized PDF pages and clearer OCR review status."
+  "version": "1.1.23",
+  "url": "https://github.com/TranscriptionToolPPT/dar-al-marjaan-updates/releases/download/v1.1.23/DarAlMarjaan_WordCountPrice_Update_1.1.23.zip",
+  "sha256": "1b0262d68762514a7ad8b09be2364679f758c12669611aa4d5d5e33f80a682ca",
+  "notes": "Improved multilingual OCR, reliable recursive ZIP processing, Hebrew/Farsi/Urdu detection, document-photo recovery, and bounded OCR timeouts."
 }
