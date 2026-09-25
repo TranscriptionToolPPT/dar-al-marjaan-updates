@@ -1,6 +1,6 @@
 {
-  "version": "1.1.23",
-  "url": "https://github.com/TranscriptionToolPPT/dar-al-marjaan-updates/releases/download/v1.1.23/DarAlMarjaan_WordCountPrice_Update_1.1.23.zip",
-  "sha256": "1b0262d68762514a7ad8b09be2364679f758c12669611aa4d5d5e33f80a682ca",
-  "notes": "Improved multilingual OCR, reliable recursive ZIP processing, Hebrew/Farsi/Urdu detection, document-photo recovery, and bounded OCR timeouts."
+  "version": "1.1.24",
+  "url": "https://github.com/TranscriptionToolPPT/dar-al-marjaan-updates/releases/download/v1.1.24/DarAlMarjaan_WordCountPrice_Update_1.1.24.zip",
+  "sha256": "2d2a9c0f23b42244dd6ce7123466d999e5cc6f97e8a1773baffe87925c9c0bbe",
+  "notes": "Corrects batch pricing pages by dividing the combined word total by 200 and rounding up once, with matching rate, total price, and Excel export."
 }
